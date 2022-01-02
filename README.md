@@ -1,1 +1,1 @@
-# joint_view_action_detection
+# Joint view action detection in indoor scenarios
