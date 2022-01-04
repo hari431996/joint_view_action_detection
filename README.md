@@ -18,13 +18,14 @@ The main dataset that we used in this project is Toyota smarthome untrimmed data
 ## Experiments and Terminology.
 Along with joint view we have performed various experiments on the Toyota untrimmed smarthome dataset and have named each folder accordingly. The essential terms necessary to understand the project are .
 
-### * [Balanced and Unbalanced Datset] (#datasets)
+* [Balanced and Unbalanced Datset] (#datasets)
 
 
 
 
 ## Folders overview.
 
+<a href="https://www.google.com/" target="_blank">Google</a>
 
 ## Steps to Training.
 
