@@ -7,4 +7,23 @@ The goal of the project is combine footage of same scenario taken by two differe
 
 ## Introduction.
 
-Joint view action detection/recognition is nothing but combining footage of same scenarios captured in dirrent places.
+Joint view action detection/recognition is nothing but combining footage of same scenarios captured in different views. This is a challenging task for any current state of the art action recognition methods because there is a huge difference in visual features across different views even though the scenario is same. The main aim of the project is to obtain a combined feature level representation/embedding from different views that can be used to improve action detection perdformance.This is done in two steps.
+
+1). First we extract the spatio-embeddings of the videos using a pre-trained 3D-CNN network in our case its I3D[1].
+
+## Experiments and Terminology.
+
+
+
+## Folders overview.
+
+
+## Steps to Training.
+
+
+## Dependencies.
+
+## References.
+
+[1]. Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset, CVPR 2017
+
