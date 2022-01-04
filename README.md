@@ -31,5 +31,5 @@ The main dataset that we used in this project is Toyota smarthome untrimmed data
 
 [1]. Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset, CVPR 2017
 
-[2].[Toyota Smarthome Untrimmed: Real-World Untrimmed Videos for Activity Detection.] (https://arxiv.org/abs/2010.14982)
+[[2].[Toyota Smarthome Untrimmed: Real-World Untrimmed Videos for Activity Detection.] (https://arxiv.org/abs/2010.14982)
 
