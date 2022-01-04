@@ -50,13 +50,21 @@ This is a simple experiment in which the dataset used is balanced wherein the da
 
 #### 2). joint_view_AGnet.
 
-In this experiment we use a 2 stream TCN architecture, where after there are 5 stages of TCN blocks and after each block theres a fusion so that thers information flow inbetween both the 2 streams. The dataset used is unbalanced with 51 actions and the footage is synchronised.
+In this experiment, we use a 2 stream TCN architecture, where after there are 5 stages of TCN blocks and after each block theres a fusion so that thers information flow inbetween both the 2 streams. The dataset used is unbalanced with 51 actions and the footage is synchronised.
 
 #### 3).joint_view_late_fusion.
+In this experiment, we use 2 stream TCN arcitecure, but the fusion between the 2 streams is done after the 5th block or output layer. The dataset used is unbalanced with 51 actions and the footage is synchronised.
+
 
 #### 4). un_balanced_data_synchronised_footage.
+This is one of the experiment, where we use a single TCN network but the dataset has synchronised footage with 298 videos where only part of the original footage that is present in the other view also is used. The dataset that has to be used is unbalanced_data_synchronised_footage.json.
 
 #### 5). unbalanced_data_unsynchronised_footage
+
+In this experiment, we use single TCN network but the dataset has unsynchronised footage with 536 videos. The dataset that has to be used is 
+smarthome_CS_51.json.
+
+### Datasets Overview.
 
 
 
