@@ -16,6 +16,10 @@ Joint view action detection/recognition is nothing but combining footage of same
 The main dataset that we used in this project is Toyota smarthome untrimmed dataset[2].
 
 ## Experiments and Terminology.
+Along with joint view we have performed various experiments on the Toyota untrimmed smarthome dataset and have named each folder accordingly. The essential terms necessary to understand the project are .
+
+### 1). Balanced and Unbalanced Datset
+
 
 
 
