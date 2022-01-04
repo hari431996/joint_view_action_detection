@@ -42,9 +42,15 @@ There are 5 main folders, each refering to a particular experiment that was perf
 4). run_xx.sh - This file is a shell script that is necessary to run the model. Note - Please read carefully about each argument before running the experiment.
 
 Also note that each folder has a file ending with .json extension which is the dataset that has to be used and the file has been named in accordance with the experiment as explained below.
-##### 1). balanced_data_un_synchronised_footage experiment.
+#### 1). balanced_data_un_synchronised_footage experiment.
 
-This is a simple experiment with 
+This is a simple experiment in which the dataset used is balanced wherein the dataset has only 34 actions. The architecture/backbone used is a single stream TCN network.
+
+#### 2). joint_view_AGnet.
+
+In this experiment we use a 2 stream TCN architecture, where after there are 5 stages of TCN blocks and after each block theres a fusion so that thers information flow inbetween both the 2 streams. The dataset used is unbalanced with 51 actions and the footage is synchronised.
+
+
 
 
 
