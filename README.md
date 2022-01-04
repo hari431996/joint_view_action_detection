@@ -31,6 +31,22 @@ In joint view we utilise features from video pairs of two different views. There
 
 
 ## Folders overview.
+There are 5 main folders, each refering to a particular experiment that was performed. Each folder consists of few important files necesary to run the experiment, of these the most important files are.
+
+1). models_xxx - This file basically contains network architecture/backbone.
+
+2). smarthome_i3d_per_xxx - This file contains the dataloader necessary to fit the model.
+
+3). train_xx - This file contains the code to train the model.
+
+4). run_xx.sh - This file is a shell script that is necessary to run the model. Note - Please read carefully about each argument before running the experiment.
+
+Also note that each folder has a file ending with .json extension which is the dataset that has to be used and the file has been named in accordance with the experiment as explained below.
+##### 1). balanced_data_un_synchronised_footage experiment.
+
+This is a simple experiment with 
+
+
 
 
 
