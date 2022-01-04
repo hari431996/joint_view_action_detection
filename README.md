@@ -20,7 +20,7 @@ Along with joint view we have performed various experiments on the Toyota untrim
 
 ### Balanced and Unbalanced Datset.
 
-The original Toyota untrimmed smarthome video dataset has close to 51 actions and the frequency of the occurence of this actions in the videos is highly unbalanced meaning certain actions occur more frequently than other actions and hence this is the reason we call it unbalanced datset. Later on in one of the experiment(#/joint_view_action_detection/tree/main/balanced_data_un_synchronised_footage) we removed certain low frequency actions and obatined a final balanced dataet consiting of only 34 highly occuring actions.
+The original Toyota untrimmed smarthome video dataset has close to 51 actions and the frequency of the occurence of this actions in the videos is highly unbalanced meaning certain actions occur more frequently than other actions and hence this is the reason we call it unbalanced datset. Later on in one of the experiment[a link](https://github.com/hari431996/joint_view_action_detection/tree/main/balanced_data_un_synchronised_footage%20) we removed certain low frequency actions and obatined a final balanced dataet consiting of only 34 highly occuring actions.
 
 ##Synchronised
 
@@ -29,7 +29,7 @@ The original Toyota untrimmed smarthome video dataset has close to 51 actions an
 
 ## Folders overview.
 
-<a href="https://www.google.com/" target="_blank">Google</a>
+
 
 ## Steps to Training.
 
