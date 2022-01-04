@@ -36,6 +36,9 @@ There are three kinds of datasets used, they are present in each folder correspo
 
 1). smarthome_CS_51.json - This is original Toyota smarthome untrimmed dataset. The json file contains annotations of 536 videos and there are 51 class label actions.
 
+2). unbalanced_data_synchronised_footage.json - This datset consists of annotations of 298 videos but the videos are in pairs and each pair have synchronised footage. Also the dataset contains, 51 label actions.
+
+3). unsynchronised_balance_data_annotation.json - This dataset consists of annotations of 536 videos but the action labels are only 34 instead of 51 like in the previous datasets.
 
 
 
