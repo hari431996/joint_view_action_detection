@@ -1,5 +1,5 @@
 # Joint view action detection in indoor scenarios
-The goal of the project is combine footage of same scenario taken by two different cameras placed in 2 diffrerent places and then perform action recognition. This repositry includes various experiments that were perormed inconjunction with joint view.
+The goal of the project is combine footage of same scenario taken by two different cameras placed in 2 diffrerent places and then perform action recognition. This repositry includes various experiments that were performed inconjunction with joint view.
 
 <img src="/gifs/Sit_down_v1.gif" width="300" height="200"/> <img src="/gifs/Sit_down_v2.gif" width="300" height="200"/> 
 
@@ -82,6 +82,8 @@ smarthome_CS_51.json.
 
 
 ## Steps to Training.
+
+Step - 1). Generate the spatio-temporal embeddings of the videos using I3D network at a rate of 16  frames per second.
 
 
 ## Dependencies.
